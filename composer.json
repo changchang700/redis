@@ -1,0 +1,12 @@
+{
+    "name": "changchang700/redis",
+    "description": "redis client",
+    "authors": [
+        {
+            "name": "changchang700",
+            "email": "2107898148@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
