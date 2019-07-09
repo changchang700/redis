@@ -1,4 +1,4 @@
-### redis
+# 简单介绍
 
 - 本组件使用@stream_socket_client与redis server通信，因此不需要安装php redis扩展；
 - 本组件使用简单，代码仿照YII2 redis组件；
