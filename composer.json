@@ -1,6 +1,6 @@
 {
     "name": "changchang700/redis",
-    "description": "redis client",
+    "description": "redis client for all projects",
 	"keywords": ["redis","YII2 redis"],
 	"homepage": "https://www.alilinet.com",
 	"license": "BSD-3-Clause",
