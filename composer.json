@@ -12,7 +12,7 @@
     ],
 	"autoload": {
         "psr-4": {
-            "Component\\Redis\\": "src"
+            "omponent\\Redi\\": "src"
         }
     },
     "require": {
