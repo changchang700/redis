@@ -11,7 +11,7 @@
 # 使用教程
 在需要引用的地方引入
 
-	use component\redis\Redis;
+	use Component\Redis\Redis;
 	
 在文件内实例化
 
