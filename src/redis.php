@@ -1,5 +1,5 @@
 <?php
-namespace component\redis;
+namespace Component\Redis;
 
 /**
  * @method mixed append($key, $value) Append a value to a key. <https://redis.io/commands/append>
