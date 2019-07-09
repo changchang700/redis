@@ -1,6 +1,7 @@
 {
     "name": "changchang700/redis",
     "description": "redis client",
+	"license": "BSD-3-Clause",
     "authors": [
         {
             "name": "changchang700",
